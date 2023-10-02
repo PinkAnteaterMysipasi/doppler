@@ -1,0 +1,7 @@
+- objektivní
+	- určeno zákonem
+		- ústava
+		- zákony
+		- podzákonné (nařízení a vyhlášky)
+- subjektivní
+	- nárok na něco

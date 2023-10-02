@@ -1,0 +1,22 @@
+- Vznik Nato & Varšavské smlouvy
+- Římské smlouvy 
+	- Vznik Evropského hospodářského hospodářství (EHS)
+- Karibská krize
+	- Na Kubě se po občanské válce chopil moci Fidel Castro a komunisté
+	- USA rakety v Turecku
+	- SSSR rakety na Kubě
+	- USA blokáda kuby
+	- Reálná hrozby jaderné války
+	- Situace nakonec uklidněna jednáním
+- Berlínská krize
+	- První
+		- Blokáda Berlína Sověty
+		- Rozdělení Německa na východní a západní
+	- Druhá
+		- Sověti požadovali demilitarizaci Berlína
+		- Berlín rozdělen Berlínskou zdí
+- Korejská válka
+	- Korea rozdělena na sovětskou a NATO část
+	- Sovětská část málem obsadila celou Koreu
+	- NATO to otočilo a došlo až k Číně
+	- Nakonec skončila příměřím
