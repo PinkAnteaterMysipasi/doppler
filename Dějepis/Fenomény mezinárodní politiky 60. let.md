@@ -8,7 +8,7 @@ dekolonizace - rozpad koloniálního systému v Africe ("rok Afriky" - 1960)
 	- společný cíl - vyhnat Francouze, potom občanská válka
 	- Intervence USA - Válka ve Vietnamu
 - Země třetího světa
-	- ani Východ ani Západ, "Třetí svět"
+	- ani Východní svět ani Západní svět, "Třetí svět"
 	- Hnutí nezúčastněných zemí
 	- Jugoslávie - neutrální, velmi silný pas
 	![hnutí nezúčastněných zemí | 300](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NAM_Members.svg/2560px-NAM_Members.svg.png)

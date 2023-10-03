@@ -1,6 +1,6 @@
 - Vznik Nato & Varšavské smlouvy
 - Římské smlouvy 
-	- Vznik Evropského hospodářského hospodářství (EHS)
+	- Vznik Evropského hospodářského společenství (EHS)
 - Karibská krize
 	- Na Kubě se po občanské válce chopil moci Fidel Castro a komunisté
 	- USA rakety v Turecku
