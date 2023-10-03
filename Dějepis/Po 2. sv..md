@@ -5,9 +5,9 @@
 	- Na Kubě se po občanské válce chopil moci Fidel Castro a komunisté
 	- USA rakety v Turecku
 	- SSSR rakety na Kubě
-	- USA blokáda kuby
+	- USA blokáda Kuby
 	- Reálná hrozby jaderné války
-	- Situace nakonec uklidněna jednáním
+	- Situace nakonec uklidněna jednáním (JFK)
 - Berlínská krize
 	- První
 		- Blokáda Berlína Sověty

@@ -10,6 +10,10 @@ KSČ
 - konzervativci
 	- neostalinisté
 	- proti
+	- Alois Indra - zvací dopis
+	- Vasiľ Biľak - Slovensko
+	- Drahomír Kolder
 - pragmatici
 	- napřed podporují reformy
 	- po srpnu otočí a podporují SSSR
+	- Husák

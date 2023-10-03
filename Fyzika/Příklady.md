@@ -19,3 +19,9 @@ $$
 &(C \cdot f)' = C \cdot f'
 \end{align}
 $$
+
+$1.0\overline{27} = 1 + 27\cdot10^{-3} + 27\cdot10^{-5}...$
+$\frac{a}{1-r}, a = 27, r = 10^{-2}$
+$1+\frac{27\cdot10^{-3}}{1-10^{-2}}$
+p = perioda, d = délka periody, o = počet nul před prvním opakováním, c = číslo minus perioda
+$c+p\cdot\frac{10^{-o-d}}{1-10^{-d}}$
