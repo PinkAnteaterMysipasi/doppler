@@ -2,7 +2,7 @@ $\vec{a}=[3,-5]$
 $a=\sqrt{a_x^2+a_y^2}=\sqrt{34}$
 $\sin{\alpha}=\frac{a_y}{a}$
 $\tan{\alpha}=\frac{a_y}{a_x}$
-
+chc9p8ci
 
 $\vec{a}+\vec{b}=\vec{c}$
 $c_x = a_x+b_x$
